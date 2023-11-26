@@ -31,7 +31,7 @@
   
     // Function to display message in the header
     function displayMessage(message) {
-      $("#currentDay").append("<p class='text-success'>" + message + "</p>");
+      $("#currentDay").after("<p class='text-success'>" + message + "</p>");
     }
   
     updateDate();

@@ -57,3 +57,13 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.display-3, .lead {
+  display: flex;
+  justify-content: center;
+}
+
+.text-success {
+  text-align: center;
+  margin: 0 auto; 
+}
