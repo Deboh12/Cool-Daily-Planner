@@ -1,1 +1,1 @@
-# Cool-Daily-Planner
+# Cool Daily Planner
