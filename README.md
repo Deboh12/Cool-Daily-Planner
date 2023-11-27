@@ -1,7 +1,7 @@
 # Cool Daily Planner
 
 ## Link to Deployed Application
-
+https://deboh12.github.io/Cool-Daily-Planner/
 
 ## Description
 The Cool Daily Planner is a simple and intuitive calendar app designed to help users manage their daily schedules efficiently. The motivation behind creating this planner was to provide a user-friendly tool that allows individuals with busy schedules to easily add and organize important events throughout the day.
