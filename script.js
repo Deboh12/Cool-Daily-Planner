@@ -20,7 +20,7 @@ $(function () {
 
     for (var hour = 9; hour <= 17; hour++) {
       var timeBlock = $('<div>').attr('id', 'hour-' + hour).addClass('row time-block');
-      var displayHour = (hour === 12) ? "12 PM" : (hour > 12) ? (hour - 12) + " PM" : hour + " AM";
+      var displayHour = (hour > 12) ? hour - 12 + "PM" : hour + "AM";
 
       if (hour < currentHour) {
         timeBlock.addClass("past");
